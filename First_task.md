@@ -14,4 +14,5 @@
 
 Было/Стало:
 
-![default](default.png) ![broken](broken.png)
+![deafult](deafult.png)
+![broken](broken.png)
